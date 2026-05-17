@@ -16,3 +16,4 @@
 - Added `QUANT_ANALYSIS.md` to explain quantitative analysis, statistics, backtesting, and practical exercises.
 - Added `TRADING_JOURNAL_SYSTEM.md` to explain journal systems, templates, behavioral review, and practical routines.
 - Added `MARKET_STRUCTURE.md` to explain market structure, trend mechanics, breakout behavior, and practical chart study methods.
+- Added `BEHAVIORAL_FINANCE.md` to explain behavioral finance, biases, emotional cycles, crowd psychology, and practical self-awareness exercises.
