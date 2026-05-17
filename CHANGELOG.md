@@ -12,3 +12,4 @@
 - Added `TRADING_MISTAKES.md` to list common trader mistakes, psychology, tables, and exercises.
  - Added `RISK_MANAGEMENT_ADVANCED.md` to deepen risk management concepts, formulas, diagrams, and practical worksheets.
  - Added `SMART_MONEY.md` to explain institutional behavior, liquidity tactics, diagrams, and exercises.
+ - Added `MACRO_ECONOMICS.md` to explain macro drivers, rates, inflation, bonds, and practical checklists.
